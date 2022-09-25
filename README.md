@@ -2,7 +2,7 @@
 - 👀 I’m interested in .exe programs
 - 🌱 I’m currently learning the code
 - 💞️ I’m looking to collaborate on .exe program and Minecraft mod
-- 📫 How to reach me ...
+- 📫 To reach me, send a e-mail to superluigikezyt@gmail.com
 
 <!---
 SuperLuigiKez/SuperLuigiKez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
