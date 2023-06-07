@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @SuperLuigiKez
-- 👀 I’m interested in .exe programs
-- 🌱 I’m currently learning the code
-- 💞️ I’m looking to collaborate on .exe program and Minecraft mod
-- 📫 To reach me, send a e-mail to superluigikezyt@gmail.com
-
-<!---
-SuperLuigiKez/SuperLuigiKez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# English/EN
+## Let me Introduce myself
+Hi, i am Super Luigi Kez but you can call me "Luigi".
+I code Markdown and a little bit of HTML.
+I do graphic design and a little bit of prototyping
+I do organisation and productivity
+I really like GitHub, that's one of my favorites networks.
+# Français/FR
+## Laissez-moi me présenter.
+Bonjour, je suis Super Luigi Kez mais vous pouvez m'appeler "Luigi".
+Je code du Markdown et un petit peu de HTML.
+Je fais du design graphique et un peu de prototypage
+Je fais de l'organisation et de la productivité.
+J'adore GitHub, c'est l'un de mes réseaux préférés.
